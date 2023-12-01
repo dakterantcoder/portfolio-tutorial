@@ -34,11 +34,13 @@ console.log(number); */
 // console.log(incr);
 // console.log(decr);
 
-const age=+prompt("How old are yu?", "")
-
-if (age>18) {
-    console.log("Welcome");
-}
-else {
-    console.log("No entry");
-}
+// const age=+prompt("How old are yu?", "");
+// if (age>25) {
+//     console.log("Horror films");
+// }
+// else if (age>18 && age<25) {
+//     console.log("Boevik kino");
+// }
+// else (age<18) {
+//     console.log("Corton films");
+// }
